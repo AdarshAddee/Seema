@@ -16,7 +16,7 @@ apt-get install python git -y
 </pre>
 
 <pre>
-git clone https://github.com/adarshaddee/seema.git 
+git clone https://github.com/adarshaddee/Seema.git 
 </pre>
 
 <pre>
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 </pre>
 
 <pre>
-python seema.py
+python Seema.py
 </pre>
 
 
