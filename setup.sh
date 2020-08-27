@@ -14,7 +14,7 @@ echo -e "\n"
 
 echo "Checking for python and it's updates"
 sleep 0.5
-apt-get install python
+apt-get install python -y
 sleep 0.5
 python3 -m pip install --upgrade pip
 
