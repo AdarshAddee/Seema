@@ -24,6 +24,13 @@ cd Seema
 </pre>
 
 <pre>
+chmod +x setup.sh
+./setup.sh
+</pre>
+
+OR YOU CAN USE
+
+<pre>
 pip install -r requirements.txt
 </pre>
 
@@ -37,3 +44,5 @@ python Seema.py
 <pre>
 apt-get update && apt-get upgrade -y && apt-get install python git -y && git clone https://github.com/adarshaddee/Seema.git
 </pre>
+
+
