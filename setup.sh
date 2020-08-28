@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# Author = Adarsh Gupta (Adarshaddee)
+# Aim = To create random passwords and protect from hackers
+# VERSION = 1.1
+
 clear
 echo -ne "Installation Begins ###"
 for i in 1 2 3 4 5
