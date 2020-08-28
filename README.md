@@ -1,3 +1,10 @@
+# Author
+Author = Adarsh Gupta (Adarshaddee)
+Aim = To Generate Random Password
+VERSION = 1.1
+
+NOTE: THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE 
+
 # Seema
 It is a random password generator tool which generates a random password of your choice. If you wants easy password, then it will generate a random easy password and give you and ask from you whether you wants to save or not. If you doesn't want to save your password and it will stop processing but if you wants to save your password then, it will ask from you a name for your password. It will save your password as a python Dictionary like this :-
 
