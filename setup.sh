@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 clear
 echo -ne "Installation Begins ###"
 for i in 1 2 3 4 5
