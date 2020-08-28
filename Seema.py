@@ -1,7 +1,7 @@
 
-# AUTHOR = Adarsh Gupta(Adarshaddee)
-# AIM = Create RANDOM Passwords
-# VERSION = 1.0 
+# Author = Adarsh Gupta(Adarshaddee)
+# Aim = Create RANDOM Passwords
+# VERSION = 1.1 
 
 # NOTE: THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE
 
