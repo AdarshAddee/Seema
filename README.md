@@ -1,6 +1,8 @@
 # Author
 Author = Adarsh Gupta (Adarshaddee)
+
 Aim = To Generate Random Password
+
 VERSION = 1.1
 
 NOTE: THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE 
