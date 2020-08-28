@@ -4,6 +4,8 @@
 # Aim = To create random passwords and protect from hackers
 # VERSION = 1.1
 
+# NOTE: THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE 
+
 clear
 echo -ne "Installation Begins ###"
 for i in 1 2 3 4 5
