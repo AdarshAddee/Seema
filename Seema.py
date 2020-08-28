@@ -1,6 +1,6 @@
 
 # Author = Adarsh Gupta(Adarshaddee)
-# Aim = Create RANDOM Passwords
+# Aim = Create RANDOM Passwords And Protect From Hackers
 # VERSION = 1.1 
 
 # NOTE: THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE
