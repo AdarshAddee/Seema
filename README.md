@@ -5,8 +5,6 @@ It is a random password generator tool which generates a random password of your
 {'your name' : 'your password'}
 </pre>
 
-# Images
-
 # Installation 
 
 <pre>
