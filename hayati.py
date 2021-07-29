@@ -24,8 +24,7 @@ print("\n")
 
 print("\t\t    #Make_In_India")
 
-# logo
-
+# Banner
 
 print(colored(" ██░ ██     ▄▄▄         ▓██   ██▓    ▄▄▄         ▄▄▄█████▓    ██▓", "red")
 print(colored("▓██░ ██▒   ▒████▄        ▒██  ██▒   ▒████▄       ▓  ██▒ ▓▒   ▓██▒", "red")
