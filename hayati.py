@@ -41,7 +41,7 @@ print(colored("   ░      ░       ░      ░     ░     ░     ", "red"),
 print(colored("    ░         ░        ░         ░      ░          ░     ", "red"), colored(" TOOL", "yellow")+ colored( " ░", "red"))
 print(colored("   ░       ░        ░           ░      ░         ░       ░         ░    ", "red"))
 
-print(colored("\t\t\t\t\t\t\t Created by AdarshAddee", "green"))
+print(colored("\t\t\t\t\t     Created by AdarshAddee", "green"))
 
 
 print("\n")
@@ -49,21 +49,7 @@ print("\n")
 
 # social links
 
-print(colored("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$", "yellow"))
-
-print(colored("$$                                              $$", "yellow"))
-
 print(colored("$$","yellow"), colored(" Youtube: https://youtube.com/mridealhat    ","green"), colored("$$", "yellow"))
-
-print(colored("$$","yellow"), colored(" Github: https://github.com/adarshaddee     ","green"), colored("$$", "yellow"))
-
-print(colored("$$","yellow"), colored(" Facebook: https://facebook.com/adarshaddee ", "green"),colored("$$", "yellow"))
-
-print(colored("$$","yellow"), colored(" Instagram: https://instagram.com/adarshaddee", "green") + colored("$$", "yellow"))
-
-print(colored("$$                                              $$", "yellow"))
-
-print(colored("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$", "yellow"))
 
 print(colored("\n\n>>> Q. Which type of password do you want to generate?", "red"))
 
