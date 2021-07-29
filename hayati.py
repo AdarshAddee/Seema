@@ -37,11 +37,11 @@ print(colored(" ░  ░░ ░     ░   ▒       ▒ ▒ ░░       ░   �
 print(colored(" ░  ░  ░         ░  ░    ░ ░              ░  ░                ░  ", "red"))
 print(colored("                         ░ ░                                     ", "red"))
 print(colored("                                          BEST FRIEND - TRUE LOVE", "green"))
-print(colored("   ░    ░    ░     ░    ░    ░    ", "red"),colored("PASSWORD GENERATING", "yellow"), colored( "▒   ", "red"))
-print(colored("   ░        ░       ░        ░    ░         ░    ", "red"), colored(" TOOL", "yellow")+ colored( " ░", "red"))
-print(colored("  ░      ░      ░        ░     ░       ░      ░       ░    ", "red"))
+print(colored("   ░      ░       ░      ░     ░     ░     ", "red"),colored("PASSWORD GENERATING", "yellow"), colored( "▒   ", "red"))
+print(colored("    ░         ░        ░         ░      ░          ░     ", "red"), colored(" TOOL", "yellow")+ colored( " ░", "red"))
+print(colored("   ░       ░        ░           ░      ░         ░       ░         ░    ", "red"))
 
-print(colored("\t\t\t Created by AdarshAddee", "green"))
+print(colored("\t\t\t\t\t\t\t Created by AdarshAddee", "green"))
 
 
 print("\n")
