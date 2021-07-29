@@ -18,11 +18,11 @@ apt-get install python git -y
 </pre>
 
 <pre>
-git clone https://github.com/adarshaddee/Hayati.git 
+git clone https://github.com/adarshaddee/Hayati-BESTIE.git 
 </pre>
 
 <pre>
-cd Hayati
+cd Hayati-BESTIE
 </pre>
 
 <pre>
@@ -44,7 +44,7 @@ python hayati.py
 # One line installation 
 
 <pre>
-apt-get update && apt-get upgrade -y && apt-get install python git -y && git clone https://github.com/adarshaddee/Hayati.git
+apt-get update && apt-get upgrade -y && apt-get install python git -y && git clone https://github.com/adarshaddee/Hayati-BESTIE.git
 </pre>
 
 
