@@ -1,7 +1,7 @@
 
-# Author = Adarsh Gupta(Adarshaddee)
+# Author = Adarsh Addee
 # Aim = Create RANDOM Passwords And Protect From Hackers
-# VERSION = 1.1 
+# VERSION = 2.1.0
 
 # NOTE: THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE
 
@@ -42,7 +42,7 @@ print(colored("   ░      ░     ░      ░   ░       ░   ", "red"), col
 print(colored("  ░     ░     ░      ░    ░      ░     ░      ░    ", "red"))
 
 print(colored("\t\t\t Created by AdarshAddee", "green"))
-print(colored("\t\t\t\t (Adarsh Gupta)", "green"))
+
 
 print("\n")
 
