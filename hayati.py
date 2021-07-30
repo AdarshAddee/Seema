@@ -22,7 +22,7 @@ os.system("clear")
 
 print("\n")
 
-print("\t\t    #Make_In_India")
+print("\t\t       #Make_In_India")
 
 # Banner
 
@@ -49,8 +49,9 @@ print("\n")
 
 # social links
 
-print(colored("$$","yellow"), colored(" Youtube: https://youtube.com/mridealhat    ","green"), colored("$$", "yellow"))
-
+print(colored("               Youtube: Adarsh Addee", "green"))
+print(colored("               Youtube: Mr idealhat", "green"))
+print(colored("               Youtube: Mr ideal", "green"))
 print(colored("\n\n>>> Q. Which type of password do you want to generate?", "red"))
 
 
@@ -104,10 +105,9 @@ if user_ch == 1:
 		dict = {name:passwrd}
 		
 		# file handling
-		f = open("easy.txt", "a")
-		f.write(str(dict))
-		f.write("\n")
-		f.close
+		with open("easy.txt", "a") as f:
+		    f.write(str(dict))
+		    f.write("\n")
 		
 		# sucessful message
 		print(colored("\nSucessfully added.....................\n\n", "blue"))
@@ -119,7 +119,7 @@ if user_ch == 1:
 
 
 
-# if user's choice is 3, then
+# if user's choice is 2, then
 elif user_ch == 2:
 	
 	#charcters
@@ -156,10 +156,9 @@ elif user_ch == 2:
 		dict = {name:passwrd}
 		
 		# file handling
-		f = open("medium.txt", "a")
-		f.write(str(dict))
-		f.write("\n")
-		f.close
+		with open("medium.txt", "a") as f:
+		    f.write(str(dict))
+		    f.write("\n")
 		
 		# sucessful message
 		print(colored("\nSucessfully added.....................\n\n", "blue"))
@@ -171,7 +170,7 @@ elif user_ch == 2:
 
 
 
-# if user's choice is 5, then
+# if user's choice is 3, then
 elif user_ch == 3:
 	
 	#charcters
@@ -211,10 +210,10 @@ elif user_ch == 3:
 		dict = {name:passwrd}
 		
 		# file handling
-		f = open("hard.txt", "a")
-		f.write(str(dict))
-		f.write("\n")
-		f.close
+		with open("hard.txt", "a") as f:
+		    f.write(str(dict))
+		    f.write("\n")
+		
 		
 		# sucessful message
 		print(colored("\nSucessfully added.....................\n\n", "blue"))
@@ -233,5 +232,3 @@ else:
 	print(colored("Please enter a valid value", "red"))
 	
 					
-
-
