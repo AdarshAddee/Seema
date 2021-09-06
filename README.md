@@ -1,5 +1,5 @@
-# Hayati
-Hayati is a random password generator tool which generates a random password of your choice. If you wants easy password, then it will generate a random easy password and give you and ask from you whether you wants to save or not. If you doesn't want to save your password and it will stop processing but if you wants to save your password then, it will ask from you a name for your password. 
+# Seema
+Seema is a random password generator tool which generates a random password of your choice. If you wants easy password, then it will generate a random easy password and give you and ask from you whether you wants to save or not. If you doesn't want to save your password and it will stop processing but if you wants to save your password then, it will ask from you a name for your password. 
 
 It will save your password as a python Dictionary like this :-
 
@@ -18,11 +18,11 @@ apt-get install python git -y
 </pre>
 
 <pre>
-git clone https://github.com/adarshaddee/Hayati-BESTIE.git 
+git clone https://github.com/adarshaddee/Seema.git 
 </pre>
 
 <pre>
-cd Hayati-BESTIE
+cd Seema
 </pre>
 
 <pre>
@@ -37,14 +37,14 @@ pip install -r requirements.txt
 </pre>
 
 <pre>
-python hayati.py
+python Seema.py
 </pre>
 
 
 # One line installation 
 
 <pre>
-apt-get update && apt-get upgrade -y && apt-get install python git -y && git clone https://github.com/adarshaddee/Hayati-BESTIE.git
+apt-get update && apt-get upgrade -y && apt-get install python git -y && git clone https://github.com/adarshaddee/Seema.git
 </pre>
 
 
