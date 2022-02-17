@@ -2,7 +2,7 @@
 Seema is a random password generator tool which generates a random password of your choice. If you wants easy password, then it will generate a random easy password and give you and ask from you whether you wants to save or not. If you doesn't want to save your password and it will stop processing but if you wants to save your password then, it will ask from you a name for your password. 
 
 # Subscribe
-hey there, You can subscribe <a href="https://youtube.com/c/mridealhat">Mr Idealhat</a> for interesting videos OR follow <a href="https://mr-idealhat.blogspot.com">Mr Idealhat</a> Blogger website for interesting blogs. Search <a href="https://www.youtube.com/channel/UCvAp_a_UY_TnAIZlpX8UmMg">"Adarsh Addee Vlogs"</a> on YouTube and subscribe for my vlog videos. 
+hey there, You can subscribe <a href="https://youtube.com/c/mridealhat">Mr Idealhat</a> for interesting videos OR follow <a href="https://mridealhatofficial.blogspot.com">Mr Idealhat</a> Blogger website for interesting blogs. Search <a href="https://www.youtube.com/channel/UCvAp_a_UY_TnAIZlpX8UmMg">"Adarsh Addee Vlogs"</a> on YouTube and subscribe for my vlog videos. 
 
 It will save your password as a python Dictionary like this :-
 
